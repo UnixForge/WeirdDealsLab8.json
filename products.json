@@ -1,0 +1,58 @@
+{
+  "companyName": "I Scream Inc.",
+  "headOffice": "Barrie, Ontario",
+  "established": 2001,
+  "active": true,
+  "topDeals": [
+    {
+      "name": "Bacon Scented Mustache",
+      "price": 4.07,
+      "description": "Now you can smell bacon all day in peace.",
+      "features": [
+        "smells like bacon",
+        "extra manly"
+      ],
+      "image": "bacon-scented-mustache.jpg"
+    },
+    {
+      "name": "Dill pickle lip balm",
+      "price": 11.95,
+      "description": "Take your look to the next level with this amazing & dill-icious lip balm",
+      "features": [
+        "dill-icious",
+        "beautiful green colour"
+      ],
+      "image": "dill-pickle-lip-balm.jpg"
+    },
+    {
+      "name": "Dancing with cats",
+      "price": 13.22,
+      "description": "Learn intrepetive dance with your feline friend!",
+      "features": [
+        "all the latest dance moves",
+        "truly bond with your cat through dance"
+      ],
+      "image": "dancing-with-cats.jpg"
+    },
+    {
+      "name": "Nicolas Cage Sequin Pillow",
+      "price": 24.95,
+      "description": "Spice up your house with this insanely cool pillow",
+      "features": [
+        "One side's red",
+        "Nicholas watches you sleep"
+      ],
+      "image": "nicolas-cage-pillow.jpg"
+    },
+    {
+      "name": "Hand Squirrel",
+      "price": 6.50,
+      "description": "Ever thought your hand seemed a bit boring? Well now it can look like a Squirrel",
+      "features": [
+        "Helps you create new Squirrel friends",
+        "Wards off demons"
+      ],
+      "image": "hand-squirrel.jpg"
+    }
+  ]
+}
